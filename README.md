@@ -1,2 +1,2 @@
 # esteticanewmedia
-laboratorio in rete di testi mediali interconnessi 
+laboratorio in rete di testi multimediali interconnessi 
